@@ -1,5 +1,6 @@
 # GitHub Codespaces ♥️ Jupyter Notebooks
-# Customer Churn Prediction
+# Customer Churn Prediction models
+# Bank Churn Prediction models
 
 ![Churn Prediction](churn_prediction_image.jpg)
 
